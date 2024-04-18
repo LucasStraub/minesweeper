@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fdac0d5162dd4e43b11b739053538e8, type: 3}
+  m_Name: Tiles
+  m_EditorClassIdentifier: 
+  Numbers:
+  - {fileID: 11400000, guid: 4807e1095c503ea4581aed6589c80d06, type: 2}
+  - {fileID: 11400000, guid: 50eefb9077760dd498c2a0d8446cdb6c, type: 2}
+  - {fileID: 11400000, guid: e405e727dfa0b814180af137e25a8515, type: 2}
+  - {fileID: 11400000, guid: 59fa008f9a175c941b7b073aec8412b5, type: 2}
+  - {fileID: 11400000, guid: 41c764d4750789f4cbedb4e64e2e0b9a, type: 2}
+  - {fileID: 11400000, guid: bd3d99211fb47e942aa9daec22862278, type: 2}
+  - {fileID: 11400000, guid: 6dc022ee49b0e1d41a553cc04ceab9b7, type: 2}
+  - {fileID: 11400000, guid: cb1243237034d74459c91f70e10cac3c, type: 2}
+  Covered: {fileID: 11400000, guid: 633851ee9154b1c499822e0afff44dc3, type: 2}
+  Open: {fileID: 11400000, guid: 900911314f644c54f8d2e5ee8742723f, type: 2}
+  Bomb: {fileID: 11400000, guid: bb55eee456ca00e4f88f723c2425a593, type: 2}
+  Bomb_Highlight: {fileID: 11400000, guid: 79d803c76a1e94d4bb7465ef83802ddc, type: 2}
+  Flag: {fileID: 11400000, guid: 236e87d4b188cea448f3115c15cc6980, type: 2}
+  Flag_Highlight: {fileID: 11400000, guid: 0326556f4b6b9e3429385cc44a2f855d, type: 2}
+  Border: {fileID: 11400000, guid: 4e0c192c966cd464d9bdfbc8fe5247cb, type: 2}
